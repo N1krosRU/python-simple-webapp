@@ -1,5 +1,6 @@
-# Локальная сборка и запуск
+# python-simple-webapp
 
+## Локальная сборка и запуск
 ```bash
 # Сбилдить и запустить приложение с тегом 1.0.0
 docker build -f ./Dockerfile -t python-simple-webapp:1.0.0 --no-cache .
