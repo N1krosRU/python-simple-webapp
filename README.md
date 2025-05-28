@@ -22,4 +22,4 @@ docker push docker.io/nenakhov/python-simple-webapp:1.0.0
 ```bash
 docker pull docker.io/nenakhov/python-simple-webapp:1.0.0
 ```
-Посмотреть можно тут: https://hub.docker.com/r/nenakhov/python-simple-webapp/tags
+Посмотреть можно тут: https://hub.docker.com/u/nenakhov
